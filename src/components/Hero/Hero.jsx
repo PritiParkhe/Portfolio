@@ -1,5 +1,5 @@
 import React from 'react'
-import { getTmageUrl } from '../../utils'
+import { getImageUrl } from '../../utils'
 import Styles from "./Hero.module.css"
 
 function Hero() {
@@ -10,7 +10,7 @@ function Hero() {
         <p className={Styles.description}>I'm a fullstack developer using technologies like Node.js, React.js, JavaScript </p>
         <a href="mailto:parkhepriti71@gmail.com" className={Styles.contactBtn}>Contact Me</a>
       </div>
-      <img src={getTmageUrl("hero/heroImage.png")} alt="Hero image of me" className={Styles.heroImg}/>
+      <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={Styles.heroImg}/>
       <div className={Styles.topBlur}/>
       <div className={Styles.bottomBlur}/>
     </section>
