@@ -74,9 +74,13 @@
   border-radius: 10px;
   padding: 24px;
 }
+.historyItem:hover{
+  background-color: #19376f;
+}
 
 .historyItem img {
-  width: 50px;
+  width: 70px;
+  height: 60px;
 }
 
 .historyItemDetails {

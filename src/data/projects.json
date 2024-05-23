@@ -1,0 +1,40 @@
+[
+  {
+    "title": "BlogTrove Project",
+    "imageSrc": "projects/Project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "React",
+      "Appwrite",
+      "HTML",
+      "CSS"
+    ],
+    "demo": "https://blog-trove-appwrite-dbqvrjty6-pritis-projects-501d8b54.vercel.app/",
+    "source": "https://github.com/PritiParkhe/BlogTrove.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Sass"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
